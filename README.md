@@ -8,9 +8,9 @@
 
 | Campo | Respuesta |
 |---|---|
-| Equipo | |
-| Zona / Centro(s) | |
-| Tipo de producto (Tabla 1 del documento técnico) | |
+| Equipo | Lider transformador|
+| Zona / Centro(s) |ZCBOY |
+| Tipo de producto (Tabla 1 del documento técnico) | Videojuego|
 | Integrantes (solo nombres completos) | |
 | Enlace al demo web (si aplica) | |
 
