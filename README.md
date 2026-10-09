@@ -11,8 +11,8 @@
 | Equipo | Lider transformador|
 | Zona / Centro(s) |ZCBOY |
 | Tipo de producto (Tabla 1 del documento técnico) | Videojuego|
-| Integrantes Romel Andrés Flechas García Daniel Muñoz Rojas Sandra Patricia Gonzalez Cardenas
-,  |
+| Integrantes | Romel Andrés Flechas García, Daniel Muñoz Rojas Sandra Patricia Gonzalez Cardenas
+, |
 | Enlace al demo web (si aplica) | |
 
 **No escriba aquí cédulas, teléfonos ni correos.** Este repositorio se hace público el viernes 9 de octubre a las 12:00 m.
