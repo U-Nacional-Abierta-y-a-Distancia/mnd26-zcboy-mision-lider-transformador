@@ -1,0 +1,25 @@
+PAQUETE DE ASSETS — UNAD LÍDER TRANSFORMADOR: GUARDIANES DEL AGUA Y LA ENERGÍA
+Maratón de Innovación en Narrativas Digitales · Segundas Olimpiadas Unadistas 2026
+Generado: 2026-10-08
+
+CONTENIDO
+- escenarios/        Fondos de los 3 niveles (páramo, cultivos, embalse).
+- personaje/         Sprites del protagonista (idle, corre, salta).
+- enemigos/          Los 12 anti-héroes temáticos (4 por nivel).
+- fauna/             Fauna del ecosistema: oso de anteojos, venado, conejo, cóndor, vaca, gallina, garza, pato, mariposa.
+- objetos_del_saber/ 22 objetos (un ícono por pregunta/saber).
+- cofres/            Cofres de pistas por nivel.
+- items/             Power-ups: armadura, arma, alas, corazón, escudo, caja estrella, portal.
+- imagenes_ia/       Imágenes de apoyo generadas con IA (póster y personaje de la intro) + referencias (ficha y hojas de sprites).
+
+ORIGEN DE LOS ASSETS (para el Formato de uso de IA)
+- Propios por código (Canvas/HTML5): 59 archivos. El arte de escenarios, personaje, enemigos, fauna,
+  objetos, cofres e ítems se dibuja por programación dentro del juego; NO son imágenes de IA.
+- Generados con IA: imágenes de apoyo (póster de precarga y personaje animado de la intro) e imágenes de
+  referencia del personaje (ficha y hojas de sprites). En el producto final jugable se usan como apoyo;
+  el personaje fue definido por el equipo y la IA lo ilustró.
+- Terceros con licencia: tipografías Google Fonts "Press Start 2P" y "VT323" (SIL Open Font License).
+- Audio: música y efectos generados por código (Web Audio API), sin archivos externos.
+
+Detalle archivo por archivo en MANIFIESTO.csv.
+Lema: CADA GOTA CUENTA. CADA DECISIÓN TRANSFORMA.
